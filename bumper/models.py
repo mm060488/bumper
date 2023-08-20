@@ -2226,7 +2226,7 @@ EcoVacsHomeProducts = [
             },
             "iconUrl": "https://portal-ww.ecouser.net/api/pim/file/get/61a712dbd540b3fc0684cdd6"
         }
-        ,
+    },   
     {
         "classid": "s1f8g7",
         "product": {
