@@ -117,7 +117,7 @@ async def _handle_get_config(request: Request) -> Response:
     try:
         data = []
         for key in request.query["keys"].split(","):
-            data.append({"key": key, "value": "Y"})
+            data.append({"key": key, "value": "{\"publicKey\":\"public key or something\"}"})
 
         return get_success_response(data)
     except Exception:  # pylint: disable=broad-except
