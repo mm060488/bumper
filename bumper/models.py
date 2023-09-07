@@ -2244,6 +2244,24 @@ EcoVacsHomeProducts = [
                 "alexa": True
             },
             "iconUrl": "https://portal-ww.ecouser.net/api/pim/file/get/61a712dbd540b3fc0684cdd6"
+        },   
+    {
+        "classid": "p1jij8",
+        "product": {
+            "_id": "619765fbcfdd5e320a1f61f6",
+            "materialNo": "110-2102-0302",
+            "name": "DEEBOT T20 OMNI",
+            "icon": "61c58ddc75bfe17354e4804e",
+            "model": "EINSTEIN_WHITE_INT",
+            "UILogicId": "t10_ww_n_omniwhite",
+            "ota": True,
+            "supportType": {
+                "share": True,
+                "tmjl": False,
+                "assistant": True,
+                "alexa": True
+            },
+            "iconUrl": "https://portal-ww.ecouser.net/api/pim/file/get/61c58ddc75bfe17354e4804e"
         }
     }
 ]
